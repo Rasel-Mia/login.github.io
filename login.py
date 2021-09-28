@@ -71,7 +71,7 @@ btn_login = Button(root, text="Clear", font='Courier 10 bold', command=clear)
 btn_login.place(x=260, y=293)
 # signup button
 sign_up_btn = Button(root, text="Sign up", command=next)
-sign_up_btn.place(x=430, y=10)
+sign_up_btn.place(x=430, y=10) 
 
 root.mainloop()
 
